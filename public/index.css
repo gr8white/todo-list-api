@@ -1,0 +1,6 @@
+.button {
+  display: none;
+}
+.task-item:hover .button {
+  display: inline-block;
+}
